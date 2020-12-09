@@ -1,6 +1,9 @@
 ## Advanced Python Notes
-*This notes 
+*This notes might be advanced or may be beginner for you. So, refer as per requirements.*
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk4NDAzNDQsLTIwODg3NDY2MTIsLT
-MzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMjA1OTgxODQzNiwtMjA4ODc0NjYxMiwtMz
+MyNDU1MzYzXX0=
 -->
